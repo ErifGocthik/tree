@@ -1,0 +1,13 @@
+Season,Humidity,Temperature,Grass,YouCanPlant
+Summer,True,20,Hard,No
+Summer,False,24,Soft,No
+Summer,True,16,Soft,Yes
+Autumn,False,10,Soft,No
+Autumn,True,9,Hard,No
+Autumn,False,3,Hard,No
+Winter,True,-10,Hard,No
+Winter,False,-14,Soft,No
+Winter,True,-23,Hard,No
+Spring,True,3,Hard,No
+Spring,True,12,Soft,Yes
+Spring,True,23,Hard,Yes
